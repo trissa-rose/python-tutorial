@@ -1,0 +1,5 @@
+r= float(input())
+C= (2*3.1416*r)
+A= (3.1416*r*r)
+print("The circumference of the circle is: {:.2f}".format(C))
+print("The area of the circle is: {:.2f}".format(A))
